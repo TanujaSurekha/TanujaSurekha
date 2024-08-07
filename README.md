@@ -1,4 +1,4 @@
-![logo](https://github.com/TanujaSurekha/Tanuja-Surekha/blob/main/data_driven_growth.png)
+![logo](https://github.com/TanujaSurekha/TanujaSurekha/blob/main/data_driven_growth.png)
 <h1 align="center">Hi 👋, I'm Tanuja Surekha Karri</h1>
 <h3 align="center">I'm a passionate and driven Data Analyst with degree in M.Sc [Mathematics] from Andhra University. My journey into the world of data began with a fascination for turning raw numbers into actionable insights and impactful decisions.</h3>
 
