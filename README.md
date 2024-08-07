@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujasurekha&label=Profile%20views&color=0e75b6&style=flat" alt="tanujasurekha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanujasurekha" alt="tanujasurekha" /></a> </p>
-
 - 🌱 I’m currently learning **Azure Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TanujaSurekha?tab=repositorie](https://github.com/TanujaSurekha?tab=repositorie)
