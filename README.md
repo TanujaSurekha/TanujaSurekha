@@ -5,7 +5,7 @@
   <br>🚀 Exciting Project Update: Sales Analytics & Profit & Loss Analysis! 📈</br>
 
 <br>We're diving into sales trends, crafting detailed P&L statements, and developing dynamic Excel dashboards to drive strategic growth. Highlights include in-depth sales analysis, comprehensive financial assessments, and actionable insights for improved profitability. Stay tuned for updates as we unlock insights and refine our strategies!</br>
-🌱 Currently Learning </br></br>• Azure Data Analytics </br></br>📫 Get in Touch</br></br> Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/tanuja-reddy-9b6a4825a/ or email me at tanu110499@gmail.com . I’m always excited to discuss data, collaborate on projects, or explore new opportunities!</h3>
+</n>🌱 Currently Learning </br></br>• Azure Data Analytics </br></br>📫 Get in Touch</br></br> Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/tanuja-reddy-9b6a4825a/ or email me at tanu110499@gmail.com . I’m always excited to discuss data, collaborate on projects, or explore new opportunities!</h3>
 
 
 
